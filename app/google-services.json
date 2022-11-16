@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "790614944764",
+    "project_id": "mobliappteamproject",
+    "storage_bucket": "mobliappteamproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790614944764:android:ea195ba5560241f81ce079",
+        "android_client_info": {
+          "package_name": "com.example.recyclerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790614944764-hf22gqlanbv1vom8cnk9niosh6p6g20n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChm16ZzX_6N0114UYTPnlN2HIw-jc-BQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790614944764-hf22gqlanbv1vom8cnk9niosh6p6g20n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
